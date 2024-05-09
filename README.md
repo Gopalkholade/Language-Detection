@@ -20,9 +20,9 @@ This repository contains a Python script for training a language detection model
 * Multinomialdb(Naive Bayes)
 
 With the end of project we were able to achive following results
- #[](/resources/results.png)
+ ![image](/resources/results.png)
 
- #[](/resources/model.png)
+ ![image](/resources/model.png)
 
 ## Streamlit application
 
