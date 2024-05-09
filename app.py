@@ -4,8 +4,8 @@ import numpy as np
 import streamlit as st
 from helper_func import TextClean
 
-model = pickle.load(open("./model_pipe.pkl", "rb"))
-label = pickle.load(open("./label_enc.pkl", "rb"))
+model = pickle.load(open("./resources/model_pipe.pkl", "rb"))
+label = pickle.load(open("./resources/label_enc.pkl", "rb"))
 
 
 st.set_page_config("Language Detection")

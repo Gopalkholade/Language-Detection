@@ -19,7 +19,10 @@ This repository contains a Python script for training a language detection model
 * TfIdf Transformer
 * Multinomialdb(Naive Bayes)
 
- #[Model](/model.png)
+With the end of project we were able to achive following results
+ #[](/resources/results.png)
+
+ #[](/resources/model.png)
 
 ## Streamlit application
 
